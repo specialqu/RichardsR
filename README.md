@@ -3,7 +3,11 @@
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 
 
+<<<<<<< HEAD
 ## What 
+=======
+## What fuck is GoGoCode?
+>>>>>>> 81c719ffa445f41c47303a63b3d08417365f5266
 
 [中文 README](README-cn.md)
 
@@ -75,4 +79,4 @@ Try this demo out at our [Playground](https://play.gogocode.io/#code/N4IglgdgDgr
 ## License Richard2 修改的东西在这里
 
 [MIT](LICENSE)
-hello git(main)
+hello git(main)GG思密达 米娜桑，空你吉瓦！
