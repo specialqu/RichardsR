@@ -72,7 +72,7 @@ Try this demo out at our [Playground](https://play.gogocode.io/#code/N4IglgdgDgr
 -   Ding Group：34266233
 -   QQ Group：735216094
 
-## License
+## License Richard2 修改的东西在这里
 
 [MIT](LICENSE)
-hello git my branch  branch2(Richard2)
+hello git 
