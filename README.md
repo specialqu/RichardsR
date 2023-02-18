@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 
 
-## What is GoGoCode?
+## What is GoGoCode? i am coming.
 
 [中文 README](README-cn.md)
 
@@ -75,4 +75,4 @@ Try this demo out at our [Playground](https://play.gogocode.io/#code/N4IglgdgDgr
 ## License Richard2 修改的东西在这里
 
 [MIT](LICENSE)
-hello git(main)
+hello git(main)rtttt
